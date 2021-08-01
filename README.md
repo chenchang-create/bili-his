@@ -1,4 +1,5 @@
-# bilibili-his
+# Bilibili-history
 记录b站早期创价，东方，哲学等等的视频页
-url: arbeiterklassen.github.io/bilibili-his/
+停更，仅供观赏
+url: arbeiterklassen.github.io/bili-his/
 
